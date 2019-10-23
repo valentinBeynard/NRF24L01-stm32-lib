@@ -1,3 +1,0 @@
-Just developing/debugging/playing stuff with STM32L151RD
-
-USB, USART, SDIO, DOSFS, BMP180, BMC050, TSL2581, ST7541 and others...
